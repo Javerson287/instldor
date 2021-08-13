@@ -1,0 +1,2 @@
+para instalar el programa desde localhost ejecutar el archivo instalador.php que esta dentro de la carpeta instalador 
+(instalador/instalador.php)
